@@ -1,0 +1,8 @@
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\bin\Debug\FunctionalProgram.exe.config
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\bin\Debug\FunctionalProgram.exe
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\bin\Debug\FunctionalProgram.pdb
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\obj\Debug\FunctionalProgram.csproj.AssemblyReference.cache
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\obj\Debug\FunctionalProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\obj\Debug\FunctionalProgram.csproj.CoreCompileInputs.cache
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\obj\Debug\FunctionalProgram.exe
+C:\Users\FelloAssgn\FunctionalProgram\FunctionalProgram\obj\Debug\FunctionalProgram.pdb
